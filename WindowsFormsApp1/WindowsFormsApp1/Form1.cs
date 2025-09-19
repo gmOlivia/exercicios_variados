@@ -22,5 +22,11 @@ namespace WindowsFormsApp1
             cadastro cadastro = new cadastro();
             cadastro.ShowDialog();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 form2 = new Form2();
+            form2.ShowDialog();
+        }
     }
 }
