@@ -28,12 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.txtcodigo = new System.Windows.Forms.TextBox();
-            this.txtdescricao = new System.Windows.Forms.TextBox();
-            this.txtvalor = new System.Windows.Forms.TextBox();
-            this.cbotipo = new System.Windows.Forms.ComboBox();
-            this.cboservico = new System.Windows.Forms.ComboBox();
-            this.data_lancamento = new System.Windows.Forms.DateTimePicker();
+            this.txtCodigo = new System.Windows.Forms.TextBox();
+            this.txtDescricao = new System.Windows.Forms.TextBox();
+            this.txtValor = new System.Windows.Forms.TextBox();
+            this.cboTipo = new System.Windows.Forms.ComboBox();
+            this.cboServico = new System.Windows.Forms.ComboBox();
+            this.Data_lancamento = new System.Windows.Forms.DateTimePicker();
             this.chkpagamento = new System.Windows.Forms.CheckBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -44,57 +44,58 @@
             this.label7 = new System.Windows.Forms.Label();
             this.btncadastrar = new System.Windows.Forms.Button();
             this.btneditar = new System.Windows.Forms.Button();
-            this.btnexcluir = new System.Windows.Forms.Button();
+            this.btnExcluir = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
-            this.txtpesquisar = new System.Windows.Forms.TextBox();
+            this.txtPesquisar = new System.Windows.Forms.TextBox();
             this.btnpesquisar = new System.Windows.Forms.Button();
+            this.btnProximo = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
-            // txtcodigo
+            // txtCodigo
             // 
-            this.txtcodigo.Location = new System.Drawing.Point(136, 36);
-            this.txtcodigo.Name = "txtcodigo";
-            this.txtcodigo.Size = new System.Drawing.Size(127, 22);
-            this.txtcodigo.TabIndex = 0;
+            this.txtCodigo.Location = new System.Drawing.Point(136, 36);
+            this.txtCodigo.Name = "txtCodigo";
+            this.txtCodigo.Size = new System.Drawing.Size(127, 22);
+            this.txtCodigo.TabIndex = 0;
             // 
-            // txtdescricao
+            // txtDescricao
             // 
-            this.txtdescricao.Location = new System.Drawing.Point(136, 80);
-            this.txtdescricao.Name = "txtdescricao";
-            this.txtdescricao.Size = new System.Drawing.Size(127, 22);
-            this.txtdescricao.TabIndex = 0;
+            this.txtDescricao.Location = new System.Drawing.Point(136, 80);
+            this.txtDescricao.Name = "txtDescricao";
+            this.txtDescricao.Size = new System.Drawing.Size(127, 22);
+            this.txtDescricao.TabIndex = 0;
             // 
-            // txtvalor
+            // txtValor
             // 
-            this.txtvalor.Location = new System.Drawing.Point(136, 126);
-            this.txtvalor.Name = "txtvalor";
-            this.txtvalor.Size = new System.Drawing.Size(127, 22);
-            this.txtvalor.TabIndex = 0;
+            this.txtValor.Location = new System.Drawing.Point(136, 126);
+            this.txtValor.Name = "txtValor";
+            this.txtValor.Size = new System.Drawing.Size(127, 22);
+            this.txtValor.TabIndex = 0;
             // 
-            // cbotipo
+            // cboTipo
             // 
-            this.cbotipo.FormattingEnabled = true;
-            this.cbotipo.Location = new System.Drawing.Point(136, 171);
-            this.cbotipo.Name = "cbotipo";
-            this.cbotipo.Size = new System.Drawing.Size(127, 24);
-            this.cbotipo.TabIndex = 1;
+            this.cboTipo.FormattingEnabled = true;
+            this.cboTipo.Location = new System.Drawing.Point(136, 171);
+            this.cboTipo.Name = "cboTipo";
+            this.cboTipo.Size = new System.Drawing.Size(127, 24);
+            this.cboTipo.TabIndex = 1;
             // 
-            // cboservico
+            // cboServico
             // 
-            this.cboservico.FormattingEnabled = true;
-            this.cboservico.Location = new System.Drawing.Point(136, 216);
-            this.cboservico.Name = "cboservico";
-            this.cboservico.Size = new System.Drawing.Size(127, 24);
-            this.cboservico.TabIndex = 1;
+            this.cboServico.FormattingEnabled = true;
+            this.cboServico.Location = new System.Drawing.Point(136, 216);
+            this.cboServico.Name = "cboServico";
+            this.cboServico.Size = new System.Drawing.Size(127, 24);
+            this.cboServico.TabIndex = 1;
             // 
-            // data_lancamento
+            // Data_lancamento
             // 
-            this.data_lancamento.Location = new System.Drawing.Point(136, 267);
-            this.data_lancamento.Name = "data_lancamento";
-            this.data_lancamento.Size = new System.Drawing.Size(200, 22);
-            this.data_lancamento.TabIndex = 2;
+            this.Data_lancamento.Location = new System.Drawing.Point(136, 267);
+            this.Data_lancamento.Name = "Data_lancamento";
+            this.Data_lancamento.Size = new System.Drawing.Size(200, 22);
+            this.Data_lancamento.TabIndex = 2;
             // 
             // chkpagamento
             // 
@@ -185,6 +186,7 @@
             this.btncadastrar.TabIndex = 5;
             this.btncadastrar.Text = "Cadastrar";
             this.btncadastrar.UseVisualStyleBackColor = true;
+            this.btncadastrar.Click += new System.EventHandler(this.btncadastrar_Click);
             // 
             // btneditar
             // 
@@ -195,33 +197,35 @@
             this.btneditar.TabIndex = 5;
             this.btneditar.Text = "Editar";
             this.btneditar.UseVisualStyleBackColor = true;
+            this.btneditar.Click += new System.EventHandler(this.btneditar_Click);
             // 
-            // btnexcluir
+            // btnExcluir
             // 
-            this.btnexcluir.Location = new System.Drawing.Point(236, 375);
-            this.btnexcluir.Name = "btnexcluir";
-            this.btnexcluir.Size = new System.Drawing.Size(100, 34);
-            this.btnexcluir.TabIndex = 5;
-            this.btnexcluir.Text = "Excluir";
-            this.btnexcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.Location = new System.Drawing.Point(236, 375);
+            this.btnExcluir.Name = "btnExcluir";
+            this.btnExcluir.Size = new System.Drawing.Size(100, 34);
+            this.btnExcluir.TabIndex = 5;
+            this.btnExcluir.Text = "Excluir";
+            this.btnExcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.Click += new System.EventHandler(this.btnexcluir_Click);
             // 
             // label8
             // 
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Verdana", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.Location = new System.Drawing.Point(465, 58);
+            this.label8.Location = new System.Drawing.Point(439, 59);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(69, 16);
             this.label8.TabIndex = 4;
             this.label8.Text = "Pesquisar";
             this.label8.Click += new System.EventHandler(this.label1_Click);
             // 
-            // txtpesquisar
+            // txtPesquisar
             // 
-            this.txtpesquisar.Location = new System.Drawing.Point(539, 56);
-            this.txtpesquisar.Name = "txtpesquisar";
-            this.txtpesquisar.Size = new System.Drawing.Size(135, 22);
-            this.txtpesquisar.TabIndex = 6;
+            this.txtPesquisar.Location = new System.Drawing.Point(539, 56);
+            this.txtPesquisar.Name = "txtPesquisar";
+            this.txtPesquisar.Size = new System.Drawing.Size(135, 22);
+            this.txtPesquisar.TabIndex = 6;
             // 
             // btnpesquisar
             // 
@@ -231,16 +235,29 @@
             this.btnpesquisar.TabIndex = 7;
             this.btnpesquisar.Text = "OK";
             this.btnpesquisar.UseVisualStyleBackColor = true;
+            this.btnpesquisar.Click += new System.EventHandler(this.btnpesquisar_Click);
+            // 
+            // btnProximo
+            // 
+            this.btnProximo.Location = new System.Drawing.Point(688, 375);
+            this.btnProximo.Name = "btnProximo";
+            this.btnProximo.Size = new System.Drawing.Size(100, 34);
+            this.btnProximo.TabIndex = 9;
+            this.btnProximo.Text = "Proximo";
+            this.btnProximo.UseVisualStyleBackColor = true;
+            this.btnProximo.Click += new System.EventHandler(this.btnProximo_Click);
             // 
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(428, 96);
+            this.dataGridView1.Location = new System.Drawing.Point(418, 97);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
             this.dataGridView1.RowTemplate.Height = 24;
-            this.dataGridView1.Size = new System.Drawing.Size(360, 223);
-            this.dataGridView1.TabIndex = 8;
+            this.dataGridView1.Size = new System.Drawing.Size(398, 223);
+            this.dataGridView1.TabIndex = 10;
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick_1);
             // 
             // Form2
             // 
@@ -248,9 +265,10 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(837, 450);
             this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.btnProximo);
             this.Controls.Add(this.btnpesquisar);
-            this.Controls.Add(this.txtpesquisar);
-            this.Controls.Add(this.btnexcluir);
+            this.Controls.Add(this.txtPesquisar);
+            this.Controls.Add(this.btnExcluir);
             this.Controls.Add(this.btneditar);
             this.Controls.Add(this.btncadastrar);
             this.Controls.Add(this.label7);
@@ -262,14 +280,15 @@
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.chkpagamento);
-            this.Controls.Add(this.data_lancamento);
-            this.Controls.Add(this.cboservico);
-            this.Controls.Add(this.cbotipo);
-            this.Controls.Add(this.txtvalor);
-            this.Controls.Add(this.txtdescricao);
-            this.Controls.Add(this.txtcodigo);
+            this.Controls.Add(this.Data_lancamento);
+            this.Controls.Add(this.cboServico);
+            this.Controls.Add(this.cboTipo);
+            this.Controls.Add(this.txtValor);
+            this.Controls.Add(this.txtDescricao);
+            this.Controls.Add(this.txtCodigo);
             this.Name = "Form2";
             this.Text = "Form2";
+            this.Load += new System.EventHandler(this.Form2_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -278,12 +297,12 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox txtcodigo;
-        private System.Windows.Forms.TextBox txtdescricao;
-        private System.Windows.Forms.TextBox txtvalor;
-        private System.Windows.Forms.ComboBox cbotipo;
-        private System.Windows.Forms.ComboBox cboservico;
-        private System.Windows.Forms.DateTimePicker data_lancamento;
+        private System.Windows.Forms.TextBox txtCodigo;
+        private System.Windows.Forms.TextBox txtDescricao;
+        private System.Windows.Forms.TextBox txtValor;
+        private System.Windows.Forms.ComboBox cboTipo;
+        private System.Windows.Forms.ComboBox cboServico;
+        private System.Windows.Forms.DateTimePicker Data_lancamento;
         private System.Windows.Forms.CheckBox chkpagamento;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
@@ -294,10 +313,11 @@
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.Button btncadastrar;
         private System.Windows.Forms.Button btneditar;
-        private System.Windows.Forms.Button btnexcluir;
+        private System.Windows.Forms.Button btnExcluir;
         private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox txtpesquisar;
+        private System.Windows.Forms.TextBox txtPesquisar;
         private System.Windows.Forms.Button btnpesquisar;
+        private System.Windows.Forms.Button btnProximo;
         private System.Windows.Forms.DataGridView dataGridView1;
     }
 }
