@@ -28,5 +28,11 @@ namespace WindowsFormsApp1
             Form2 form2 = new Form2();
             form2.ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            forms2909 form = new forms2909();
+            form.ShowDialog();
+        }
     }
 }

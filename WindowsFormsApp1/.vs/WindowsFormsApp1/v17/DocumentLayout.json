@@ -1,29 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:WindowsFormsApp1\\objeto\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\forms2909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\forms2909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\objeto\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\objeto\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:WindowsFormsApp1\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\jos\u00E9\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\windowsformsapp1\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:WindowsFormsApp1\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:WindowsFormsApp1\\objeto\\financeiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,40 +46,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "arquivos.cs",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\arquivos.cs",
-              "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\arquivos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAmwCIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T00:31:44.898Z",
+              "WhenOpened": "2025-09-29T13:56:34.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "arquivos.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\arquivos.cs",
-              "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\arquivos.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "forms2909.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\forms2909.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\forms2909.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\forms2909.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\forms2909.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T00:31:48.087Z",
+              "WhenOpened": "2025-09-29T12:54:21.34Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T12:53:23.807Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\conexao.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\objeto\\conexao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\conexao.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\objeto\\conexao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:31:48.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "arquivos.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\arquivos.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\arquivos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:31:44.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "arquivos.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\arquivos.cs",
+              "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\arquivos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:31:48.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "financeiro.cs",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\financeiro.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\financeiro.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\objeto\\financeiro.cs",
-              "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\financeiro.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\financeiro.cs",
               "RelativeToolTip": "WindowsFormsApp1\\objeto\\financeiro.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAYwDEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -75,41 +139,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
               "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp1\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T00:31:48.104Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-09-20T00:31:48.104Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
-              "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
               "RelativeToolTip": "WindowsFormsApp1\\Form2.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T00:31:48.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "conexao.cs",
-              "DocumentMoniker": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\conexao.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\objeto\\conexao.cs",
-              "ToolTip": "C:\\Users\\Jos\u00E9\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\conexao.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\objeto\\conexao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T00:31:48.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T00:31:48.107Z"
             }
           ]
         }
