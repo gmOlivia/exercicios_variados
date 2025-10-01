@@ -36,8 +36,6 @@ C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsForm
 C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
-C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
-C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
 C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.cadastro.resources
 C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
 C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
@@ -97,3 +95,8 @@ C:\Users\José\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsForm
 C:\Users\José\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
 C:\Users\José\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\José\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.dll
+C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\itextsharp.xml
+C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.arquivos.resources
+C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Aluno\Documents\GitHub\exercicios_variados\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.forms2909.resources

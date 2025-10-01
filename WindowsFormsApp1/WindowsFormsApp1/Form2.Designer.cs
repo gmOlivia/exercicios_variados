@@ -47,7 +47,7 @@
             this.btnExcluir = new System.Windows.Forms.Button();
             this.label8 = new System.Windows.Forms.Label();
             this.txtPesquisar = new System.Windows.Forms.TextBox();
-            this.btnpesquisar = new System.Windows.Forms.Button();
+            this.btnPesquisar = new System.Windows.Forms.Button();
             this.btnProximo = new System.Windows.Forms.Button();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -227,15 +227,15 @@
             this.txtPesquisar.Size = new System.Drawing.Size(135, 22);
             this.txtPesquisar.TabIndex = 6;
             // 
-            // btnpesquisar
+            // btnPesquisar
             // 
-            this.btnpesquisar.Location = new System.Drawing.Point(689, 56);
-            this.btnpesquisar.Name = "btnpesquisar";
-            this.btnpesquisar.Size = new System.Drawing.Size(46, 23);
-            this.btnpesquisar.TabIndex = 7;
-            this.btnpesquisar.Text = "OK";
-            this.btnpesquisar.UseVisualStyleBackColor = true;
-            this.btnpesquisar.Click += new System.EventHandler(this.btnpesquisar_Click);
+            this.btnPesquisar.Location = new System.Drawing.Point(689, 56);
+            this.btnPesquisar.Name = "btnPesquisar";
+            this.btnPesquisar.Size = new System.Drawing.Size(46, 23);
+            this.btnPesquisar.TabIndex = 7;
+            this.btnPesquisar.Text = "OK";
+            this.btnPesquisar.UseVisualStyleBackColor = true;
+            this.btnPesquisar.Click += new System.EventHandler(this.btnpesquisar_Click);
             // 
             // btnProximo
             // 
@@ -266,7 +266,7 @@
             this.ClientSize = new System.Drawing.Size(837, 450);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btnProximo);
-            this.Controls.Add(this.btnpesquisar);
+            this.Controls.Add(this.btnPesquisar);
             this.Controls.Add(this.txtPesquisar);
             this.Controls.Add(this.btnExcluir);
             this.Controls.Add(this.btneditar);
@@ -316,7 +316,7 @@
         private System.Windows.Forms.Button btnExcluir;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.TextBox txtPesquisar;
-        private System.Windows.Forms.Button btnpesquisar;
+        private System.Windows.Forms.Button btnPesquisar;
         private System.Windows.Forms.Button btnProximo;
         private System.Windows.Forms.DataGridView dataGridView1;
     }

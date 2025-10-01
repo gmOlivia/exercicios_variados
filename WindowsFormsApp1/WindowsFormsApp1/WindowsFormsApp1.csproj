@@ -136,6 +136,8 @@
     </Compile>
     <Compile Include="objeto\conexao.cs" />
     <Compile Include="objeto\financeiro.cs" />
+    <Compile Include="objeto\vaga.cs" />
+    <Compile Include="objeto\veiculo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="arquivos.resx">
