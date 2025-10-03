@@ -46,7 +46,9 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.BackgroundColor = System.Drawing.Color.GhostWhite;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.GridColor = System.Drawing.Color.SlateBlue;
             this.dataGridView1.Location = new System.Drawing.Point(427, 49);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersWidth = 51;
@@ -83,6 +85,9 @@
             // 
             // txtPlaca
             // 
+            this.txtPlaca.BackColor = System.Drawing.Color.Indigo;
+            this.txtPlaca.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtPlaca.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.txtPlaca.Location = new System.Drawing.Point(120, 70);
             this.txtPlaca.Name = "txtPlaca";
             this.txtPlaca.Size = new System.Drawing.Size(200, 22);
@@ -90,6 +95,9 @@
             // 
             // txtCor
             // 
+            this.txtCor.BackColor = System.Drawing.Color.Indigo;
+            this.txtCor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtCor.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.txtCor.Location = new System.Drawing.Point(120, 118);
             this.txtCor.Name = "txtCor";
             this.txtCor.Size = new System.Drawing.Size(200, 22);
@@ -97,6 +105,9 @@
             // 
             // txtModelo
             // 
+            this.txtModelo.BackColor = System.Drawing.Color.Indigo;
+            this.txtModelo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtModelo.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.txtModelo.Location = new System.Drawing.Point(120, 163);
             this.txtModelo.Name = "txtModelo";
             this.txtModelo.Size = new System.Drawing.Size(200, 22);
@@ -104,26 +115,34 @@
             // 
             // btnRegistrar
             // 
+            this.btnRegistrar.BackColor = System.Drawing.Color.MidnightBlue;
+            this.btnRegistrar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRegistrar.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnRegistrar.Location = new System.Drawing.Point(32, 330);
             this.btnRegistrar.Name = "btnRegistrar";
             this.btnRegistrar.Size = new System.Drawing.Size(100, 27);
             this.btnRegistrar.TabIndex = 9;
             this.btnRegistrar.Text = "REGISTRAR";
-            this.btnRegistrar.UseVisualStyleBackColor = true;
+            this.btnRegistrar.UseVisualStyleBackColor = false;
             this.btnRegistrar.Click += new System.EventHandler(this.btnRegistrar_Click);
             // 
             // btnExcluir
             // 
+            this.btnExcluir.BackColor = System.Drawing.Color.MidnightBlue;
+            this.btnExcluir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnExcluir.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.btnExcluir.Location = new System.Drawing.Point(220, 330);
             this.btnExcluir.Name = "btnExcluir";
             this.btnExcluir.Size = new System.Drawing.Size(100, 27);
             this.btnExcluir.TabIndex = 9;
             this.btnExcluir.Text = "EXCLUIR";
-            this.btnExcluir.UseVisualStyleBackColor = true;
+            this.btnExcluir.UseVisualStyleBackColor = false;
             this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
             // 
             // dtpHorario
             // 
+            this.dtpHorario.CalendarMonthBackground = System.Drawing.Color.Indigo;
+            this.dtpHorario.CalendarTitleBackColor = System.Drawing.Color.Indigo;
             this.dtpHorario.Location = new System.Drawing.Point(120, 211);
             this.dtpHorario.Name = "dtpHorario";
             this.dtpHorario.Size = new System.Drawing.Size(200, 22);
@@ -149,16 +168,20 @@
             // 
             // cmbVaga
             // 
+            this.cmbVaga.BackColor = System.Drawing.Color.Indigo;
+            this.cmbVaga.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.cmbVaga.FormattingEnabled = true;
             this.cmbVaga.Location = new System.Drawing.Point(120, 259);
             this.cmbVaga.Name = "cmbVaga";
             this.cmbVaga.Size = new System.Drawing.Size(200, 24);
             this.cmbVaga.TabIndex = 12;
+            this.cmbVaga.SelectedIndexChanged += new System.EventHandler(this.cmbVaga_SelectedIndexChanged);
             // 
             // forms2909
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.DarkSlateBlue;
             this.ClientSize = new System.Drawing.Size(975, 432);
             this.Controls.Add(this.cmbVaga);
             this.Controls.Add(this.dtpHorario);
@@ -173,6 +196,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.dataGridView1);
+            this.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.Name = "forms2909";
             this.Text = "forms2909";
             this.Load += new System.EventHandler(this.forms2909_Load);

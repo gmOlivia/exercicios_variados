@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\windowsformsapp1\\forms2909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\forms2909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\forms2909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\forms2909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\forms2909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\forms2909.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\windowsformsapp1\\objeto\\vaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\objeto\\vaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\forms2909.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\objeto\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\objeto\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\windowsformsapp1\\forms2909.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\forms2909.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\objeto\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\objeto\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:WindowsFormsApp1\\Form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|c:\\users\\aluno\\documents\\github\\exercicios_variados\\windowsformsapp1\\windowsformsapp1\\objeto\\vaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\objeto\\vaga.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B80D7845-7BDD-4DBE-93C0-010DF37C8415}|WindowsFormsApp1\\WindowsFormsApp1.csproj|C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\windowsformsapp1\\arquivos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -42,11 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\conexao.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\objeto\\conexao.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\conexao.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\objeto\\conexao.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwBcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T11:59:59.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "forms2909.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\forms2909.Designer.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\forms2909.Designer.cs",
@@ -59,46 +72,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "vaga.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\vaga.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\objeto\\vaga.cs",
               "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\vaga.cs",
               "RelativeToolTip": "WindowsFormsApp1\\objeto\\vaga.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T12:49:43.764Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "veiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\veiculo.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp1\\objeto\\veiculo.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\objeto\\veiculo.cs",
-              "RelativeToolTip": "WindowsFormsApp1\\objeto\\veiculo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T12:49:34.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "forms2909.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\forms2909.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\forms2909.cs",
               "ToolTip": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\forms2909.cs",
               "RelativeToolTip": "WindowsFormsApp1\\forms2909.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAArAAAA",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAwJoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T12:22:46.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "forms2909.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\forms2909.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\forms2909.cs",
@@ -110,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Aluno\\Documents\\GitHub\\exercicios_variados\\WindowsFormsApp1\\WindowsFormsApp1\\Form2.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form2.cs",
@@ -118,8 +118,7 @@
               "RelativeToolTip": "WindowsFormsApp1\\Form2.cs",
               "ViewState": "AQIAAF4AAAAAAAAAAAAgwGkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T00:31:48.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T00:31:48.107Z"
             },
             {
               "$type": "Document",

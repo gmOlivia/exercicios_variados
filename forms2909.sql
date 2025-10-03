@@ -9,11 +9,13 @@ codigo int primary key auto_increment
 );
 
 create table vagas (
-idvaga int not null,
+idvaga int not null auto_increment,
 numero int not null,
-horario datetime(24) null,
+horario datetime(6) null,
 stats varchar(45) null, 
-primary key (idvaga)
+codigo int,
+primary key (idvaga), 
+constraint fk_veiculo foreign key (codigo) references veiculo(codigo)
 );
 
 
